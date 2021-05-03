@@ -1,0 +1,3 @@
+En son değiştirilme tarihi: 21 Aralık 2020 11:43 
+Download Audio butonunu ekledim.
+Programa "download audio" butonuna basıldığında eğer müzik indirilebilir değilse uyarı vermesi için ek yaptım.
